@@ -261,3 +261,28 @@ margin-top: 32px;
     color: white;
     padding-right: 5px;
 }
+.follow
+{
+    background-color:rgb(249, 242, 240);
+    height: 100px;
+}
+.followtext
+{
+    background-color:rgb(249, 242, 240);   
+    padding-left: 400px;
+    padding-bottom: 100px;
+    font-family: emoji;
+    
+}
+.followtext h3
+{
+    margin: 0px;
+    font-size: 32px;
+    margin-bottom: 2px
+}
+.followtext p
+{
+    font-size: 12px;
+    margin: 0px;
+    font-style: italic;
+}
